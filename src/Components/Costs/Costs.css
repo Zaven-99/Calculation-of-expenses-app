@@ -1,0 +1,14 @@
+.costs {
+  padding: 1rem;
+  background-color: #aac4d1;
+  margin: 2rem auto;
+  width: 70rem;
+  max-width: 95%;
+  border-radius:10px;
+}
+.cost-list__fallback{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
